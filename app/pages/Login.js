@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, StatusBar, Button } from 'react-native';
-import Logo from '../app/components/Logo';
+import Logo from '../components/Logo';
 
 
 
